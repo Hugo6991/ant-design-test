@@ -3,9 +3,14 @@
 ### Goal 
 
 - Setup ant-design environment 
-- Cuztomize dashboard 
+- Cuztomize dashboard
+
+### Layout 
+
+Choose your prefererce on [ant-design layout](https://ant.design/components/layout)
 
 ### To do 
 
-- learn how to change layout
+- learn how to change layout, import data
+- create multiple pages
 - How to integrate data
